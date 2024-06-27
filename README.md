@@ -16,7 +16,7 @@ The goal of Slab Launcher is to experience holding a black slab/monolith, that i
 
 <p float="left">
   <img height="724" width="" src="docs/assets/home-screen.jpeg">
-  <img height="724" width="400" src="docs/assets/home-screen-2.png">
+  <img height="724" width="" src="docs/assets/slablauncher-2.jpg">
 </p>
 
 ## About
