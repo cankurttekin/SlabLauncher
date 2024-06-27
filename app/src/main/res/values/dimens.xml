@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="font_size_home_clock">@dimen/_40ssp</dimen>
+    <dimen name="font_size_home_clock">@dimen/_60ssp</dimen>
     <dimen name="font_size_home_date">@dimen/_18ssp</dimen>
-    <dimen name="font_size_home_app_list_item">@dimen/_24ssp</dimen>
+    <dimen name="font_size_home_app_list_item">@dimen/_20ssp</dimen>
 
     <dimen name="font_size_drawer_search">@dimen/_18ssp</dimen>
     <dimen name="font_size_apps_list_item">@dimen/_20ssp</dimen>
@@ -19,13 +19,13 @@
     <dimen name="font_size_add_apps_action">@dimen/_18ssp</dimen>
     
     <dimen name="margin_list_items">@dimen/_24sdp</dimen>
-    <dimen name="margin_list_items_top">@dimen/_4sdp</dimen>
+    <dimen name="margin_list_items_top">@dimen/_minus8sdp</dimen>
 
-    <dimen name="margin_top">@dimen/_16sdp</dimen>
+    <dimen name="margin_top">@dimen/_80sdp</dimen>
     <dimen name="margin_top_small">@dimen/_8sdp</dimen>
-    <dimen name="margin_top_large">@dimen/_32sdp</dimen>
+    <dimen name="margin_top_large">@dimen/_8sdp</dimen>
 
-    <dimen name="margin_bottom_small">@dimen/_8sdp</dimen>
+    <dimen name="margin_bottom_small">@dimen/_2sdp</dimen>
 
     <dimen name="margin_sides">@dimen/_16sdp</dimen>
     <dimen name="margin_sides_small">@dimen/_8sdp</dimen>

@@ -228,7 +228,7 @@ class HomeFragment : BaseFragment(), OnLaunchAppListener {
                     homeFragmentContent.homeFragmentCall.setOnClickListener { view ->
                         try {
                             val pm = context?.packageManager!!
-                            val intent = Intent(Intent.ACTION_DIAL)
+                            val intent = Intent(Intent.ACTION_WEB_SEARCH)
                             val componentName = intent.resolveActivity(pm)
                             if (componentName == null) {
                                 launchActivity(view, intent)
@@ -262,7 +262,7 @@ class HomeFragment : BaseFragment(), OnLaunchAppListener {
                 if (rightButtonIcon != R.drawable.ic_empty) {
                     homeFragmentContent.homeFragmentCamera.setOnClickListener {
                         try {
-                            val intent = Intent(MediaStore.INTENT_ACTION_STILL_IMAGE_CAMERA)
+                            val intent = Intent(MediaStore.INTENT_ACTION_MUSIC_PLAYER)
                             launchActivity(it, intent)
                         } catch (e: Exception) {
                             // Do nothing
