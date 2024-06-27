@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="128" width="128"  src="docs/assets/slablauncher.png">
+  <img height="256" width="256"  src="docs/assets/slablauncher.png">
 </p>
 
 <h1 align="center">
@@ -35,16 +35,17 @@ Features:
 Differences from original repo:
 
 - Call button replaced with browser/search
-- camera button replaced with music
-- bigger clock
-- clock is closer to top side of phone
-- removed month from date
-- replaced short day name to full
-- home screen apps padding size reduced
-- home screen 6 apps limit increased to 12
+- Camera button replaced with Music 
+- Bigger clock
+- Clock is closer to top side of phone
+- Removed month from date
+- Replaced short day name to full
+- Home screen apps padding size reduced
+- Home screen 6 apps limit increased to 12
+- Font changed from Ubuntu to Noto Sans Bold
 
 ## Project History
 
 This project is a fork of [Unlauncher](https://github.com/jkuester/unlauncher) by [jkuester](https://github.com/jkuester) that is also fork of [SlimLauncher](https://github.com/sduduzog/slim-launcher) by [sduduzog](https://github.com/sduduzog). <br>
-CONSIDER DOWNLOADING FROM ABOVE REPOS, THIS FORK IS BEING MAINTAINED ONLY FOR MY LIKINGS.
+#### CONSIDER DOWNLOADING FROM ABOVE REPOS, THIS FORK IS BEING MAINTAINED ONLY FOR MY LIKINGS.
 The contributors to those project deserve all the credit for the layout of this app.
