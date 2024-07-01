@@ -6,7 +6,7 @@
   Slab Launcher
 </h1>
 
-> _A Slab from your phone_
+> _A Slab from your phone_ 
 
 [<img src="https://f-droid.org/badge/get-it-on.png"
      alt="Get it on F-Droid"
